@@ -1,0 +1,141 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+
+    {
+      "identifier": "1",
+      "name": "Perritus",
+      "publisher": "Jorge B",
+      "tray_image_file": "home.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "aynose.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "banas.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Berga.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "gudi.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Oxxo.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "Pemex.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "perritu.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "pitza.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "puto.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "sevaser.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "shrek.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "teamo.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "tumadre.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "memie.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "cartulina.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "culazo.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "drogas.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "thanos.webp",
+          "emojis": ["🌈","😜"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "2",
+      "name": "Gatitus",
+      "publisher": "flaticon.com",
+      "tray_image_file": "home.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    }
+
+
+
+      ]
+    }
+
+
+
